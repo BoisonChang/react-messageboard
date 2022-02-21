@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-messageboard/static/js/main.96d3de21.js",
+    "index.html": "/react-messageboard/index.html",
+    "main.96d3de21.js.map": "/react-messageboard/static/js/main.96d3de21.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.96d3de21.js"
+  ]
+}
